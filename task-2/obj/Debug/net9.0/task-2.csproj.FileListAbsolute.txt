@@ -1,0 +1,5 @@
+E:\presidio-internship-tasks\c-\task-2\obj\Debug\net9.0\task-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\presidio-internship-tasks\c-\task-2\obj\Debug\net9.0\task-2.AssemblyInfoInputs.cache
+E:\presidio-internship-tasks\c-\task-2\obj\Debug\net9.0\task-2.AssemblyInfo.cs
+E:\presidio-internship-tasks\c-\task-2\obj\Debug\net9.0\task-2.csproj.CoreCompileInputs.cache
+E:\presidio-internship-tasks\c-\task-2\obj\Debug\net9.0\task-2.sourcelink.json
