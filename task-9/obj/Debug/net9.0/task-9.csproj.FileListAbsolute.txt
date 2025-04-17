@@ -1,0 +1,15 @@
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.GeneratedMSBuildEditorConfig.editorconfig
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.AssemblyInfoInputs.cache
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.AssemblyInfo.cs
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.csproj.CoreCompileInputs.cache
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.sourcelink.json
+E:\presidio-internship-tasks\c-\task-9\bin\Debug\net9.0\task-9.exe
+E:\presidio-internship-tasks\c-\task-9\bin\Debug\net9.0\task-9.deps.json
+E:\presidio-internship-tasks\c-\task-9\bin\Debug\net9.0\task-9.runtimeconfig.json
+E:\presidio-internship-tasks\c-\task-9\bin\Debug\net9.0\task-9.dll
+E:\presidio-internship-tasks\c-\task-9\bin\Debug\net9.0\task-9.pdb
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.dll
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\refint\task-9.dll
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.pdb
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\task-9.genruntimeconfig.cache
+E:\presidio-internship-tasks\c-\task-9\obj\Debug\net9.0\ref\task-9.dll
