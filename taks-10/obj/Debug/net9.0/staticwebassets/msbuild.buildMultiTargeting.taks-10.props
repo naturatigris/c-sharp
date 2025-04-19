@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\taks-10.props" />
+</Project>

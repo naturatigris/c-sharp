@@ -1,0 +1,6 @@
+@taks_10_HostAddress = http://localhost:5149
+
+GET {{taks_10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
