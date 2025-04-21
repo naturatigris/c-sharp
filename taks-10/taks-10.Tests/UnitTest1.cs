@@ -1,8 +1,7 @@
-using Book.Data;
-using Book.Models;
+﻿using Book.Data;
 using Microsoft.EntityFrameworkCore;
 using Xunit;
-using System.Threading.Tasks;
+namespace taks_10.Tests;
 
 public class BookServiceTests
 {
